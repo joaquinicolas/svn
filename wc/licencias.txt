@@ -1,0 +1,16 @@
+Evidentemente, todo este proyecto es ficticio y creado unicamente para poder practicar
+los conceptos explicados en el curso.
+
+Las recetas se han obtenido de la web http://www.vegetarianismo.net/ donde están publicadas
+con la licencia creative commons 3.0 by sa (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+
+El diseño de la página web se ha realizado a partir de otro publicado en zen garden:
+ 'Teatime', de Michaela Maria Sampl, http://www.freecom.at/
+La misma autora autorizó el uso explícitamente en un mail al autor de este curso.
+Más detalles de la licencia están en la cabecera (no modificada) del fichero style.css.
+
+He intentado respetar al máximo los derechos de los autores mencionados anteriormente, pero no
+soy especialista en el tema.
+Agradecería que se me comunicase personalmente (domingo.sebastian@gmail.com) cualquier defecto en el uso hecho
+de este material para subsanarlo immediatamente.
